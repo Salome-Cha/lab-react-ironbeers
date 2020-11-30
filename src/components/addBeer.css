@@ -1,0 +1,19 @@
+.form-add {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 300px;
+}
+
+.form-add label {
+  color: grey;
+  font-size: 12px;
+}
+
+button {
+  background-color: #3dc4fc;
+  color: white;
+  padding: 5px;
+  border: none;
+  margin-top: 30px;
+}

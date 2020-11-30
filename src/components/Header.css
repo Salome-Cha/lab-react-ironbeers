@@ -1,0 +1,12 @@
+.header-bar {
+  background-color: #3dc4fc;
+  width: 300px;
+  height: 100px;
+}
+
+.fa-home {
+  color: white;
+  font-size: 36px;
+  position: relative;
+  top: 30px;
+}
